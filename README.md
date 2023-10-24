@@ -2,7 +2,7 @@
 
 [View the live website here] (https://nsurve180.github.io/pumpkin-puzzler/)
 
-## Game Objective and Rules
+## Game Objectives and Rules
 
 Pumpkin Puzzler is a word-guessing game based on the classic "hangman" concept, designed to be both fun and educational. The objective of the game is to guess the hidden word by selecting letters. Here are the rules:
 
