@@ -35,26 +35,6 @@ The game is built using the following technologies:
 - [RealFaviconGenerator](https://realfavicongenerator.net/) to convert the PNG graphic into ICO for the favicon
 
 
-## Testing
-### Code Validation
-The [W3C Markup Validation Service](https://validator.w3.org/) was used to validate the HTML on every page of the project. There was an error in relation to using `aria-label="hidden"` instead of `aria-hidden="true"`, this was as a result of human error and was rectified. After fixing this error the code validates with no issue.
->
-The [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) was used to validate the CSS file used for the project. There were no errors found.
->
-[JSHint](https://jshint.com/) was used to check the quality of the JavaScript code and check for errors. Apart from `Missing semicolon` errors which were rectified, there was one error:
-> 	`Expected an assignment or function call and instead saw an expression` 
-
-The code causing the error was in `script.js` in `function checkLetter()`:
->`isWrongGuess ? handleIncorrectGuess(keyPressed) : handleCorrectGuess(keyPressed);`
-
-This was amended to the `if/else statement` shown below and there is no longer any error.
->`if (wordToGuess.indexOf(keyPressed.innerHTML) === -1) {
-        handleIncorrectGuess(keyPressed);
-    } else {
-        handleCorrectGuess(keyPressed);
-    }`
-
-
 ## Setup and Deployment Instructions
 
 The user just needs to access the link which also present in the github directory and paste in the browser. And he can start the game.
