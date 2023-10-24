@@ -1,5 +1,7 @@
 # Pumpkin Puzzler Game
 
+[View the live website here] (https://nsurve180.github.io/pumpkin-puzzler/)
+
 ## Game Objective and Rules
 
 Pumpkin Puzzler is a word-guessing game based on the classic "hangman" concept, designed to be both fun and educational. The objective of the game is to guess the hidden word by selecting letters. Here are the rules:
@@ -51,7 +53,7 @@ To play the Pumpkin Puzzler game, follow these steps:
 
 3. Start playing the game. Select letters to guess the word and try to beat the pumpkin.
 
-You can also access the live version of the game on [GitHub Pages](https://github.com/nsurve180/pumpkin-puzzler.git).
+You can also access the live version of the game on https://nsurve180.github.io/pumpkin-puzzler/
 
 ## Credits for Third-Party Assets and Code
 
