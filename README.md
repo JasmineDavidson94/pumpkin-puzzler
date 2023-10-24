@@ -23,7 +23,7 @@ The game is built using the following technologies:
  - [Eye Dropper](https://eyedropper.org/) extension for Chrome to pick and generate colours for the project
 - [Coolors](https://coolors.co/) to generate a colour palette/see how colours worked beside each other
 - [Webaim Contrast Checker](https://webaim.org/resources/contrastchecker/) to check the contrast for the colour choices 
-- [Adobe Illustrator](https://www.adobe.com/ie/products/illustrator.html) to create the 'monster', trophy and 'obstacle' graphics
+- [Adobe Illustrator](https://www.adobe.com/ie/products/illustrator.html) to create the 'pumpkin', trophy and 'obstacle' graphics
 - [Font Awesome](https://fontawesome.com/) for the icons used throughout
 - Git for version control.
 - [GitHub](https://github.com/) to store the project code and host the live project
@@ -59,7 +59,7 @@ This was amended to the `if/else statement` shown below and there is no longer a
 
 The user just needs to access the link which also present in the github directory and paste in the browser. And he can start the game.
 
-To play the Word Monster game, follow these steps:
+To play the Pumpkin Puzzler game, follow these steps:
 
 1. Clone this repository to your local machine:
 
@@ -69,13 +69,13 @@ To play the Word Monster game, follow these steps:
 
 2. Open the `index.html` file in your web browser.
 
-3. Start playing the game. Select letters to guess the word and try to beat the monster.
+3. Start playing the game. Select letters to guess the word and try to beat the pumpkin.
 
 You can also access the live version of the game on [GitHub Pages](https://github.com/nsurve180/pumpkin-puzzler.git).
 
 ## Credits for Third-Party Assets and Code
 
-The Word Monster game incorporates the following third-party assets and code:
+The Pumpkin Puzzler game incorporates the following third-party assets and code:
 
 - Fonts imported from [Google Fonts](https://fonts.google.com/)
 - Icons provided by [Font Awesome](https://fontawesome.com/)
