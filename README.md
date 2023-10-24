@@ -18,7 +18,6 @@ The game is built using the following technologies:
 - HTML
 - CSS
 - JavaScript
-
 ### Frameworks, Libraries, Programmes and Tools
 
  - The fonts used in the project are imported from [Google Fonts](https://fonts.google.com/)
