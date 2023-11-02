@@ -7,7 +7,7 @@
 Pumpkin Puzzler is a word-guessing game based on the classic "hangman" concept, designed to be both fun and educational. The objective of the game is to guess the hidden word by selecting letters. Here are the rules:
 
 1. You have seven chances to guess the word.
-2. Each incorrect guess erases one obstacle between the "pumpkin" and the "trophy."
+2. Each incorrect guess erases one obstacle between the "pumpkin" and the "trophy".
 3. If you guess all the correct letters before running out of chances, you win the game and the pumpkin doesn't claim the trophy.
 4. If you guess incorrectly seven times, the pumpkin claims the trophy, and you lose the game.
 
